@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/calendarFragment"
+        android:title="Calendar"
+        android:icon="@drawable/ic_calendar"
+        />
+    <item
+        android:id="@+id/quoteFragment"
+        android:title="Quote"
+        android:icon="@drawable/ic_quote"
+        />
+</menu>
